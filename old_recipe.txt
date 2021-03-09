@@ -9,3 +9,5 @@ idly:
 
 vada:
 
+puri:
+
